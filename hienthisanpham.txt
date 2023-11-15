@@ -1,1 +1,2 @@
 Đây là chức năng hiển thị sản phẩm của máy B
+Nội dung chỉnh sửa home của máy A
