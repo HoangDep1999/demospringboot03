@@ -1,2 +1,3 @@
 Đây là chức năng hiển thị sản phẩm của máy B
 Nội dung chỉnh sửa home của máy A
+Đây là chức năng home của máy B
